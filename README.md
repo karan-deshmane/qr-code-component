@@ -19,9 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-![alt text](images/project-screenshot.png)
+![QR Code Component](images/project-screenshot.png)
 
 ## My process
 
@@ -42,4 +40,4 @@ I think we can add CSS frameworks and a custom QR code creator here in the futur
 
 ## Author
 
-- Website - [Add your name here](https://www.karandeshmane.com)
+- Website - [Karan Deshmane](https://www.karandeshmane.com)
