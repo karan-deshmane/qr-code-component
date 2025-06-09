@@ -1,5 +1,5 @@
 .tile {
-    border: 2px solid black;
+    border: 0px;
     height: 499px;
     width: 320px;
     position: fixed;
@@ -53,7 +53,7 @@ img {
 .tile-footer {
     font-family: "Outfit", sans-serif;
     font-size: 15px;
-    font-weight: 7=400;
+    font-weight: 300;
     text-align: center;
     background-color: #FFFFFF;
 }
